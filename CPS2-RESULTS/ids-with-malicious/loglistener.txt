@@ -1,0 +1,374 @@
+00:00.344	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.352	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki 3.0 started. Node id is set to 8.
+00:00.361	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.372	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.374	ID:8	Starting 'UDP client process'
+00:00.376	ID:8	UDP client process started
+00:00.380	ID:8	Client IPv6 addresses: aaaa::212:7408:8:808
+00:00.383	ID:8	fe80::212:7408:8:808
+00:00.389	ID:8	Created a connection with the server :: local/remote port 8765/5678
+00:00.507	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.515	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki 3.0 started. Node id is set to 2.
+00:00.522	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.524	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.530	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki 3.0 started. Node id is set to 6.
+00:00.535	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.537	ID:2	Starting 'UDP client process'
+00:00.538	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.539	ID:2	UDP client process started
+00:00.544	ID:2	Client IPv6 addresses: aaaa::212:7402:2:202
+00:00.547	ID:2	fe80::212:7402:2:202
+00:00.549	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.551	ID:6	Starting 'UDP client process'
+00:00.552	ID:2	Created a connection with the server :: local/remote port 8765/5678
+00:00.554	ID:6	UDP client process started
+00:00.558	ID:6	Client IPv6 addresses: aaaa::212:7406:6:606
+00:00.561	ID:6	fe80::212:7406:6:606
+00:00.567	ID:6	Created a connection with the server :: local/remote port 8765/5678
+00:00.619	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.628	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki 3.0 started. Node id is set to 4.
+00:00.636	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.647	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.649	ID:4	Starting 'UDP client process'
+00:00.652	ID:4	UDP client process started
+00:00.653	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.656	ID:4	Client IPv6 addresses: aaaa::212:7404:4:404
+00:00.659	ID:4	fe80::212:7404:4:404
+00:00.661	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki 3.0 started. Node id is set to 1.
+00:00.664	ID:4	Created a connection with the server :: local/remote port 8765/5678
+00:00.670	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.673	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.681	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.681	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki 3.0 started. Node id is set to 7.
+00:00.683	ID:1	Starting 'UDP server process'
+00:00.684	ID:1	UDP server started
+00:00.688	ID:1	created a new RPL dag
+00:00.690	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.693	ID:1	Server IPv6 addresses: aaaa::212:7401:1:101
+00:00.695	ID:1	aaaa::ff:fe00:1
+00:00.698	ID:1	fe80::212:7401:1:101
+00:00.701	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.703	ID:7	Starting 'UDP client process'
+00:00.704	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+00:00.705	ID:7	UDP client process started
+00:00.709	ID:7	Client IPv6 addresses: aaaa::212:7407:7:707
+00:00.712	ID:7	fe80::212:7407:7:707
+00:00.718	ID:7	Created a connection with the server :: local/remote port 8765/5678
+00:00.827	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.835	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki 3.0 started. Node id is set to 10.
+00:00.844	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.855	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.857	ID:10	Starting 'UDP client process'
+00:00.860	ID:10	UDP client process started
+00:00.864	ID:10	Client IPv6 addresses: aaaa::212:740a:a:a0a
+00:00.867	ID:10	fe80::212:740a:a:a0a
+00:00.872	ID:10	Created a connection with the server :: local/remote port 8765/5678
+00:00.979	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.986	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.988	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki 3.0 started. Node id is set to 9.
+00:00.994	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki 3.0 started. Node id is set to 5.
+00:00.996	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.003	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.007	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.009	ID:9	Starting 'UDP client process'
+00:01.012	ID:9	UDP client process started
+00:01.014	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.016	ID:5	Starting 'UDP client process'
+00:01.016	ID:9	Client IPv6 addresses: aaaa::212:7409:9:909
+00:01.018	ID:5	UDP client process started
+00:01.019	ID:9	fe80::212:7409:9:909
+00:01.023	ID:5	Client IPv6 addresses: aaaa::212:7405:5:505
+00:01.024	ID:9	Created a connection with the server :: local/remote port 8765/5678
+00:01.026	ID:5	fe80::212:7405:5:505
+00:01.031	ID:5	Created a connection with the server :: local/remote port 8765/5678
+00:01.170	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.179	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki 3.0 started. Node id is set to 3.
+00:01.187	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.198	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.200	ID:3	Starting 'UDP client process'
+00:01.203	ID:3	UDP client process started
+00:01.207	ID:3	Client IPv6 addresses: aaaa::212:7403:3:303
+00:01.210	ID:3	fe80::212:7403:3:303
+00:01.215	ID:3	Created a connection with the server :: local/remote port 8765/5678
+00:01.545	ID:1	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.547	ID:1	*IDS* - New IP tracked, DIS count: 1
+00:01.568	ID:3	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.571	ID:3	*IDS* - New IP tracked, DIS count: 1
+00:01.572	ID:7	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.574	ID:7	*IDS* - New IP tracked, DIS count: 1
+00:01.616	ID:8	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.619	ID:8	*IDS* - New IP tracked, DIS count: 1
+00:01.636	ID:5	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.639	ID:5	*IDS* - New IP tracked, DIS count: 1
+00:01.643	ID:4	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.646	ID:4	*IDS* - New IP tracked, DIS count: 1
+00:01.670	ID:6	RPL: Received a DIS from fe80::212:7402:2:202
+00:01.673	ID:6	*IDS* - New IP tracked, DIS count: 1
+00:01.692	ID:1	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.695	ID:1	*IDS* - New IP tracked, DIS count: 1
+00:01.695	ID:3	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.696	ID:7	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.698	ID:3	*IDS* - New IP tracked, DIS count: 1
+00:01.698	ID:7	*IDS* - New IP tracked, DIS count: 1
+00:01.739	ID:8	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.742	ID:8	*IDS* - New IP tracked, DIS count: 1
+00:01.753	ID:9	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.756	ID:9	*IDS* - New IP tracked, DIS count: 1
+00:01.760	ID:5	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.763	ID:5	*IDS* - New IP tracked, DIS count: 1
+00:01.767	ID:4	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.769	ID:4	*IDS* - New IP tracked, DIS count: 1
+00:01.780	ID:2	RPL: Received a DIS from fe80::212:7406:6:606
+00:01.783	ID:2	*IDS* - New IP tracked, DIS count: 1
+00:01.897	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:01.899	ID:1	*IDS* - New IP tracked, DIS count: 1
+00:01.907	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:01.910	ID:2	*IDS* - New IP tracked, DIS count: 1
+00:01.921	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:01.923	ID:6	*IDS* - New IP tracked, DIS count: 1
+00:01.944	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:01.947	ID:3	*IDS* - New IP tracked, DIS count: 1
+00:01.948	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:01.950	ID:7	*IDS* - New IP tracked, DIS count: 1
+00:01.992	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:01.995	ID:8	*IDS* - New IP tracked, DIS count: 1
+00:02.002	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.005	ID:9	*IDS* - New IP tracked, DIS count: 1
+00:02.009	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.011	ID:5	*IDS* - New IP tracked, DIS count: 1
+00:02.019	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.021	ID:4	*IDS* - New IP tracked, DIS count: 1
+00:02.025	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.025	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.026	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.026	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.026	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.026	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.026	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.026	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.028	ID:9	*IDS* - DIS count for this Neighbour: 2
+00:02.028	ID:6	*IDS* - DIS count for this Neighbour: 2
+00:02.028	ID:3	*IDS* - DIS count for this Neighbour: 2
+00:02.028	ID:2	*IDS* - DIS count for this Neighbour: 2
+00:02.028	ID:5	*IDS* - DIS count for this Neighbour: 2
+00:02.028	ID:8	*IDS* - DIS count for this Neighbour: 2
+00:02.028	ID:7	*IDS* - DIS count for this Neighbour: 2
+00:02.029	ID:1	*IDS* - DIS count for this Neighbour: 2
+00:02.029	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.032	ID:4	*IDS* - DIS count for this Neighbour: 2
+00:02.156	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.156	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.159	ID:9	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:2	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:8	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:6	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:7	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:3	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:5	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:1	*IDS* - DIS count for this Neighbour: 3
+00:02.159	ID:4	*IDS* - DIS count for this Neighbour: 3
+00:02.286	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.286	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.289	ID:2	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:7	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:9	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:5	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:3	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:8	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:4	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:1	*IDS* - DIS count for this Neighbour: 4
+00:02.289	ID:6	*IDS* - DIS count for this Neighbour: 4
+00:02.416	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.416	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.419	ID:3	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:6	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:2	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:9	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:7	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:8	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:4	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:5	*IDS* - DIS count for this Neighbour: 5
+00:02.419	ID:1	*IDS* - DIS count for this Neighbour: 5
+00:02.546	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.546	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.549	ID:9	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:2	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:6	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:3	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:7	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:8	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:5	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:4	*IDS* - DIS count for this Neighbour: 6
+00:02.549	ID:1	*IDS* - DIS count for this Neighbour: 6
+00:02.677	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.677	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.680	ID:6	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:7	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:2	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:5	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:9	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:4	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:8	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:3	*IDS* - DIS count for this Neighbour: 7
+00:02.680	ID:1	*IDS* - DIS count for this Neighbour: 7
+00:02.807	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.807	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.808	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.810	ID:6	*IDS* - DIS count for this Neighbour: 8
+00:02.810	ID:1	*IDS* - DIS count for this Neighbour: 8
+00:02.810	ID:2	*IDS* - DIS count for this Neighbour: 8
+00:02.810	ID:9	*IDS* - DIS count for this Neighbour: 8
+00:02.810	ID:8	*IDS* - DIS count for this Neighbour: 8
+00:02.810	ID:4	*IDS* - DIS count for this Neighbour: 8
+00:02.810	ID:5	*IDS* - DIS count for this Neighbour: 8
+00:02.811	ID:7	*IDS* - DIS count for this Neighbour: 8
+00:02.811	ID:3	*IDS* - DIS count for this Neighbour: 8
+00:02.979	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.982	ID:1	*IDS* - DIS count for this Neighbour: 9
+00:02.993	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:02.996	ID:8	*IDS* - DIS count for this Neighbour: 9
+00:02.999	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.002	ID:9	*IDS* - DIS count for this Neighbour: 9
+00:03.010	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.013	ID:5	*IDS* - DIS count for this Neighbour: 9
+00:03.017	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.020	ID:4	*IDS* - DIS count for this Neighbour: 9
+00:03.030	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.033	ID:2	*IDS* - DIS count for this Neighbour: 9
+00:03.044	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.046	ID:6	*IDS* - DIS count for this Neighbour: 9
+00:03.067	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.070	ID:3	*IDS* - DIS count for this Neighbour: 9
+00:03.071	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.074	ID:7	*IDS* - DIS count for this Neighbour: 9
+00:03.109	ID:2	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:9	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:3	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:7	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:6	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:4	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:5	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:1	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.109	ID:8	RPL: Received a DIS from fe80::212:740a:a:a0a
+00:03.112	ID:9	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:2	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:6	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:3	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:5	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:7	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:4	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:1	*IDS* - DIS count for this Neighbour: 10
+00:03.112	ID:8	*IDS* - DIS count for this Neighbour: 10
+00:03.118	ID:2	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:6	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:5	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:7	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:3	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:4	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:9	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:1	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:03.118	ID:8	*IDS* - Neighbour fe80::212:740a:a:a0ais a DIS Attacker. ( BLOCKED )
+00:10.547	ID:1	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.549	ID:1	*IDS* - New IP tracked, DIS count: 1
+00:10.570	ID:7	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.570	ID:3	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.573	ID:7	*IDS* - New IP tracked, DIS count: 1
+00:10.573	ID:3	*IDS* - New IP tracked, DIS count: 1
+00:10.618	ID:8	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.620	ID:8	*IDS* - New IP tracked, DIS count: 1
+00:10.628	ID:9	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.631	ID:9	*IDS* - New IP tracked, DIS count: 1
+00:10.641	ID:4	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.644	ID:4	*IDS* - New IP tracked, DIS count: 1
+00:10.655	ID:2	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.658	ID:2	*IDS* - New IP tracked, DIS count: 1
+00:10.672	ID:6	RPL: Received a DIS from fe80::212:7405:5:505
+00:10.675	ID:6	*IDS* - New IP tracked, DIS count: 1
+00:26.406	ID:2	RPL: Received a DIS from fe80::212:7407:7:707
+00:26.409	ID:2	*IDS* - New IP tracked, DIS count: 1
+00:26.420	ID:6	RPL: Received a DIS from fe80::212:7407:7:707
+00:26.422	ID:6	*IDS* - New IP tracked, DIS count: 1
+00:26.443	ID:3	RPL: Received a DIS from fe80::212:7407:7:707
+00:26.446	ID:3	*IDS* - New IP tracked, DIS count: 1
+00:44.443	ID:3	RPL: Received a DIS from fe80::212:7404:4:404
+00:44.446	ID:3	*IDS* - New IP tracked, DIS count: 1
+00:44.446	ID:1	RPL: Received a DIS from fe80::212:7404:4:404
+00:44.449	ID:1	*IDS* - New IP tracked, DIS count: 1
+01:10.995	ID:8	DATA send to 1 'Hello 1'
+01:15.425	ID:7	DATA send to 1 'Hello 1'
+01:15.483	ID:10	DATA send to 1 'Hello 1'
+01:22.509	ID:6	DATA send to 1 'Hello 1'
+01:28.698	ID:2	DATA send to 1 'Hello 1'
+01:37.520	ID:5	DATA send to 1 'Hello 1'
+01:39.415	ID:9	DATA send to 1 'Hello 1'
+01:46.727	ID:3	DATA send to 1 'Hello 1'
+01:47.484	ID:1	DATA recv 'Hello 1 from the client' from 3
+01:48.380	ID:4	DATA send to 1 'Hello 1'
+02:01.510	ID:8	DATA send to 1 'Hello 2'
+02:07.204	ID:3	DATA send to 1 'Hello 2'
+02:07.376	ID:6	DATA send to 1 'Hello 2'
+02:09.692	ID:7	DATA send to 1 'Hello 2'
+02:12.564	ID:2	DATA send to 1 'Hello 2'
+02:15.473	ID:10	DATA send to 1 'Hello 2'
+02:20.799	ID:4	DATA send to 1 'Hello 2'
+02:40.412	ID:9	DATA send to 1 'Hello 2'
+02:52.431	ID:5	DATA send to 1 'Hello 2'
+03:02.877	ID:8	DATA send to 1 'Hello 3'
+03:06.727	ID:10	DATA send to 1 'Hello 3'
+03:10.988	ID:5	DATA send to 1 'Hello 3'
+03:16.092	ID:9	DATA send to 1 'Hello 3'
+03:19.300	ID:7	DATA send to 1 'Hello 3'
+03:34.153	ID:4	DATA send to 1 'Hello 3'
+03:57.166	ID:2	DATA send to 1 'Hello 3'
+03:58.977	ID:3	DATA send to 1 'Hello 3'
+03:59.758	ID:6	DATA send to 1 'Hello 3'
+04:11.993	ID:2	DATA send to 1 'Hello 4'
+04:14.412	ID:9	DATA send to 1 'Hello 4'
+04:24.680	ID:6	DATA send to 1 'Hello 4'
+04:25.176	ID:4	DATA send to 1 'Hello 4'
+04:29.868	ID:3	DATA send to 1 'Hello 4'
+04:37.425	ID:7	DATA send to 1 'Hello 4'
+04:45.825	ID:5	DATA send to 1 'Hello 4'
+04:48.041	ID:8	DATA send to 1 'Hello 4'
+04:52.712	ID:10	DATA send to 1 'Hello 4'
