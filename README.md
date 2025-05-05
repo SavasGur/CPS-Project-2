@@ -16,5 +16,5 @@ The idea is the same as the Z1 mote code given in the class, rpl-timers.c and rp
 Modified files are in the DIS-flooding folder.
 
 ##  IDS implementation
--IDS codes can be found in /Contiki-3.0/core/net/rpl/rpl-icmp6.c <br>
+-IDS codes can be found in /IDS-Contiki-3.0/core/net/rpl/rpl-icmp6.c <br>
 (modified lines or added code has been given with comments)
