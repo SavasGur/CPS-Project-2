@@ -1,4 +1,4 @@
-# <style
+<style
   type="text/css">
 h1 {color:red;}CPS-Project-2 
 </style>
